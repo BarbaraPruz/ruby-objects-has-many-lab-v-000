@@ -8,5 +8,5 @@ class Post
   def author_name
     author.name
   end
-  
+
 end
